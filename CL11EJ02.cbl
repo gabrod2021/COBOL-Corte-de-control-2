@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author: EMILIANO TOMASI
+      * Author: GABRIELA RODRIGUEZ
       * Date: 07/09/2023
-      * Purpose: CLASE 11 - EJERCICIO 2
+      * Purpose: CORTE DE CONTROL ANIDADO
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
